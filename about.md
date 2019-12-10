@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello there ... well this is the landing plate for my blog! I'm not sure what'll appear in these pages, but lets see how it develops ... 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I work on meiosis ... the specialized cell division that makes sperm and eggs. I have the good fortune to do this using genomics and with great people ... so I get to sit at my computer all day!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kevbrick at gmail dot com](mailto:kevbrick@gmail.com)
